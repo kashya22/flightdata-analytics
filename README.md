@@ -13,10 +13,10 @@ Store the transformed data in Azure SQL Database.
 
 Build an interactive Power BI dashboard for delay insights and reports.
 
-Component             	Technology
-Programming Language	 Python (PySpark, Pandas)
-Cloud Platform	Microsoft Azure
-Database	Azure SQL Database
-Visualization Tool	Power BI
-Data Storage	Azure Blob Storage
-IDE / Environment	VS Code, Jupyter Notebook, Anaconda
+
+Programming Language:	 Python (PySpark, Pandas),
+Cloud Platform:	Microsoft Azure,
+Database:	Azure SQL Database,
+Visualization Tool:	Power BI,
+Data Storage:	Azure Blob Storage,
+IDE / Environment:	VS Code, Jupyter Notebook, Anaconda
